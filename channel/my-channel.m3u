@@ -1,0 +1,33 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://rtm-image.glueapi.io/300x180/live_stream/1-TV1.jpg" group-title="",RTM 1
+https://rtm-live-stream1.glueapi.io/smil:rtmch001.smil/chunklist_b1064000_sleng.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://rtm-image.glueapi.io/300x180/live_stream/2-TV2.jpg" group-title="",RTM 2
+https://rtm-live-stream1.glueapi.io/smil:rtmch002.smil/chunklist_b1064000_sleng.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.xtra.com.my/img/logo/tv3.png" group-title="",TV3
+https://stream-02.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHfg0W33YkFWiki6P5PvaCfY)/dm/3/x6qp375/s/live-4.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/gHCOcuF.png" group-title="",CinemaWorld
+http://210.210.155.35/uq2663/h/h04/01.m3u8?fluxustv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.xtra.com.my/img/logo/ntv7.png" group-title="",NTV7
+https://stream-01.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHWpB5VpK9XLuDuSZOItj8mg)/dm/3/x6qp6ou/s/live-4.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.xtra.com.my/img/logo/8tv.png" group-title="",8TV
+https://stream-02.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHZ8DnMNipKMqWPiRvZkmQ_Q)/dm/3/x6qud17/s/live-4.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/802_300.png" group-title="",Arena HD
+http://playbackn5.aotg-video.astro.com.my/CH1/master_ARENA_8_05.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/cZOIHf8.jpg" group-title="Sport",Sky Sports
+http://122.129.115.21:1935/edgedol/_definst_/tao126/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/JtSSvss.png" group-title="Sport",ESPN 2 HD
+https://cvtv.cvalley.net/hls/ESPN2HD/ESPN2HD.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/zQSTKzm.png" group-title="Sport",ESPN HD
+https://cvtv.cvalley.net/hls/ESPNHD/ESPNHD.m3u8
+#EXTINF:0,Foxsport (MY)
+http://erol74y7la.servep2p.com:80/mHyifxGiDv/fox/playlist.m3u8
+#EXTINF:0,Foxsport 2 (MY)
+http://erol74y7la.servep2p.com:80/mHyifxGiDv/fox2/playlist.m3u8
+#EXTINF:0,ASSP 1
+http://erol74y7la.servep2p.com:80/mHyifxGiDv/assp1/playlist.m3u8
+#EXTINF:0,ASSP 2
+http://erol74y7la.servep2p.com:80/mHyifxGiDv/assp2/playlist.m3u8
+#EXTINF:0,ASSP 3
+http://erol74y7la.servep2p.com:80/mHyifxGiDv/assp3/playlist.m3u8
+#EXTINF:0,ASSP 4
+http://erol74y7la.servep2p.com:80/mHyifxGiDv/assp4/playlist.m3u8
